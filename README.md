@@ -41,6 +41,15 @@ Finish !
 
 If you are issue after installation (nginx,mariadb... not found), use this script : bash install-debug.sh (watch the log during installation)
 
+###### :bangbang: **Remote Desktop**
+
+Follow intrustions here:
+- https://remotedesktop.google.com/headless/
+
+connect on to your VPS =>
+- wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+- apt install ./chrome-remote-desktop_current_amd64.deb
+
 ###### :bangbang: **Kudaraidee Install Script :**
 - Instead Tpruvot's Yiimp, you can use the Kudaraidee's Repo Yiimp : git clone -b Kudaraidee https://github.com/Kudaraidee/yiimp.git
 - It's an updated Yiimp, with more algo, some fix....

@@ -45,7 +45,7 @@
     clear
     echo
     echo -e "$GREEN************************************************************************$COL_RESET"
-    echo -e "$GREEN Yiimp Install Script v0.2 $COL_RESET"
+    echo -e "$GREEN VTS-Yiimp Install Script v0.2.1 $COL_RESET"
     echo -e "$GREEN Install yiimp on Ubuntu 16.04/18.04 running Nginx, MariaDB, and php7.3 $COL_RESET"
     echo -e "$GREEN************************************************************************$COL_RESET"
     echo

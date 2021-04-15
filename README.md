@@ -46,7 +46,7 @@ If you are issue after installation (nginx,mariadb... not found), use this scrip
 
 ###### **Remote Desktop**
 
-Follow intrustions here:
+Follow intrustions here while signed in as pool user:
 - https://remotedesktop.google.com/headless/
 
 connect on to your VPS =>

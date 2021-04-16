@@ -52,6 +52,8 @@ Follow intrustions here while signed in as pool user:
 connect on to your VPS =>
 - wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 - apt install ./chrome-remote-desktop_current_amd64.deb
+- sudo apt install ubuntu-mate-desktop (COMPILE YOUR COIN FIRST!!)
+
 
 ###### :bangbang: **Kudaraidee Install Script :**
 - Instead Tpruvot's Yiimp, you can use the Kudaraidee's Repo Yiimp : git clone -b Kudaraidee https://github.com/Kudaraidee/yiimp.git

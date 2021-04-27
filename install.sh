@@ -1159,7 +1159,7 @@
     sudo systemctl status nginx | sed -n "1,3p"
     sudo systemctl restart php7.3-fpm.service
     sudo systemctl status php7.3-fpm | sed -n "1,3p"
-
+    sudo apt install php7.3-memcache php7.3-memcached memcached
 
     echo
     echo -e "$GREEN Done...$COL_RESET"

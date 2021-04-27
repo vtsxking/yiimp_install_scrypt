@@ -34,9 +34,6 @@ Connect on your VPS =>
 - cd yiimp_install_scrypt/
 - bash install.sh (DO NOT RUN THE SCRIPT AS ROOT or SUDO)
 - At the end, you MUST REBOOT to finalize installation...
-## **If the page is blank**
-Connect on your VPS =>
-- apt install php7.3-memcache php7.3-memcached memcached
 
 Finish !
 - Go http://xxx.xxx.xxx.xxx or https://xxx.xxx.xxx.xxx (if you have chosen LetsEncrypt SSL). Enjoy !
